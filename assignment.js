@@ -1,4 +1,4 @@
-// 
+// https://github.com/dvlprtanvir/assignment
 
 // kilometerToMeter
 function kilometerToMeter(kilometer) {
@@ -6,7 +6,7 @@ function kilometerToMeter(kilometer) {
     return meter;
 }
 
-var result = kilometerToMeter(5);
+var result = kilometerToMeter(7);
 console.log(result);
 
 
@@ -48,12 +48,12 @@ function hotelCost(days) {
     }
     return price;
 }
-var total = hotelCost(90);
+var total = hotelCost(31);
 console.log(total);
 
 
 
-// megaFriend
+//megaFriend
 function megaFriend(names) {
 
     var max = names[0];
